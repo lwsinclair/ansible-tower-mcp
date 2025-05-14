@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/a37ai-ansible-tower-mcp-badge.png)](https://mseep.ai/app/a37ai-ansible-tower-mcp)
+
 # Ansible Tower MCP Server
 An MCP Server so that LLMs can interact with Ansible Tower
 
